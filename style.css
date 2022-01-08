@@ -1,0 +1,33 @@
+body{
+    font-family: 'Pushster', cursive;
+    background:rgb(60, 102, 136);
+}
+.header_div{
+    background:navy;
+color:white;
+}
+.header_div p{
+    font-family:'Pushster', cursive;
+    color:white;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family: 'Roboto',sans-serif;
+    margin-top:30px;
+    width: 30px;
+    font-weight:bolder;
+letter-spacing:3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:turquoise;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px turquoise;
+}
